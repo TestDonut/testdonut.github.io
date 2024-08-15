@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: TestDonut - 软件测试甜甜圈
-subtitle:
-description: 软件测试甜甜圈，软件测试知识分享
+title: TestDonut
+subtitle: 软件测试甜甜圈，软件测试知识分享测试路上有点甜
+description: 测试路上有点甜
 author: TestDonut
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
